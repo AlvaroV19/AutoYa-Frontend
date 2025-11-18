@@ -31,7 +31,8 @@ Este repositorio contiene el Frontend Web PWA de AutoYa, un marketplace P2P para
 
 - **Backend AutoYa**: https://github.com/AlvaroV19/AutoYa-Backend
 - **Docs AutoYa**: https://github.com/AlvaroV19/AutoYa-Docs
-- **Deployment AutoYa**: https://github.com/AlvaroV19/AutoYa-Deployment 
+- **Deployment AutoYa**: https://github.com/AlvaroV19/AutoYa-Deployment
+- **Repository Legacy**: https://github.com/beyner62838/AutoYa
 
 ---
 
